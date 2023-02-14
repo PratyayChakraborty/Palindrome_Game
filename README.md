@@ -4,7 +4,7 @@
 
 
 
-# django-rest-api
+# django-rest-api installation
 A REST api written in Django for people with deadlines
 
 ## Technologies used
