@@ -1,0 +1,26 @@
+
+
+BaseUrl: http://localhost:8000/api/v1/
+create a user (send user object in body)
+POST
+/api/user/
+
+get list of users
+GET
+/api/user/
+
+get a user
+GET
+/api/user/{id}/
+
+update a user (full object update)
+PUT
+/api/user/{id}/
+
+partial update for a user
+PATCH
+/api/user/{id}/
+
+delete a user
+DELETE
+/api/user/{id}/
